@@ -1,6 +1,6 @@
 <br />
 
-Engenheiro de software apaixonado por sistemas empresariais — do ERP desktop legado ao SaaS moderno 🇧🇷
+Engenheiro de software apaixonado por sistemas empresariais — do ERP SaaS legado ao SaaS moderno 🇧🇷
 
 **Sobre mim**
 
