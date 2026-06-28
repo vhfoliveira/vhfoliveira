@@ -6,7 +6,7 @@ Engenheiro de software apaixonado por sistemas empresariais — do ERP SaaS lega
 
 - 💼 Analista e Implantador de Sistemas ERP na [Udisoft](https://github.com/Udisoft)
 
-- 🔧 Liderando a reconstrução do **Udisys ERP**: de um sistema desktop legado para uma plataforma **SaaS multi-tenant** limpa e modular sobre Spring Boot
+- 🔧 Liderando a reconstrução do **Udisys ERP**: de um sistema saas legado para uma plataforma **SaaS multi-tenant** limpa e modular sobre Spring Boot
 
 - 🎓 Estudante de **Engenharia de Software** — arquitetura limpa e modelagem de domínio aplicadas a sistemas em produção
 
