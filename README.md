@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" alt="Victor Oliveira — Analista de Sistemas ERP & Engenheiro de Software" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Victor%20Oliveira&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Analista%20de%20Sistemas%20ERP%20%26%20Engenheiro%20de%20Software&descSize=18&descAlignY=58" />
-</p>
-
 <br />
 
 Engenheiro de software apaixonado por sistemas empresariais — do ERP desktop legado ao SaaS moderno 🇧🇷
