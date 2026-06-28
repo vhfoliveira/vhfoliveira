@@ -1,16 +1,53 @@
-## Hi there 👋
+<p align="center">
+  <img width="100%" alt="Victor Oliveira — Analista de Sistemas ERP & Engenheiro de Software" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Victor%20Oliveira&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Analista%20de%20Sistemas%20ERP%20%26%20Engenheiro%20de%20Software&descSize=18&descAlignY=58" />
+</p>
 
-<!--
-**vhfoliveira/vhfoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+Engenheiro de software apaixonado por sistemas empresariais — do ERP desktop legado ao SaaS moderno 🇧🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Sobre mim**
+
+- 💼 Analista e Implantador de Sistemas ERP na [Udisoft](https://github.com/Udisoft)
+
+- 🔧 Liderando a reconstrução do **Udisys ERP**: de um sistema desktop legado para uma plataforma **SaaS multi-tenant** limpa e modular sobre Spring Boot
+
+- 🎓 Estudante de **Engenharia de Software** — arquitetura limpa e modelagem de domínio aplicadas a sistemas em produção
+
+- ❤️ Curto escrever **Java/Spring** e construir interfaces server-side com **HTMX**
+
+- 💬 Fale comigo em [engsoft.victor@gmail.com](mailto:engsoft.victor@gmail.com)
+
+<br />
+
+<code><img height="20" alt="java" src="https://skillicons.dev/icons?i=java" /></code>
+<code><img height="20" alt="spring" src="https://skillicons.dev/icons?i=spring" /></code>
+<code><img height="20" alt="postgresql" src="https://skillicons.dev/icons?i=postgres" /></code>
+<code><img height="20" alt="html" src="https://skillicons.dev/icons?i=html" /></code>
+<code><img height="20" alt="css" src="https://skillicons.dev/icons?i=css" /></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=js" /></code>
+<code><img height="20" alt="rust" src="https://skillicons.dev/icons?i=rust" /></code>
+<code><img height="20" alt="python" src="https://skillicons.dev/icons?i=python" /></code>
+<code><img height="20" alt="git" src="https://skillicons.dev/icons?i=git" /></code>
+
+<br />
+<br />
+
+| <a href="https://github.com/vhfoliveira"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vhfoliveira&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub do Victor" /></a> | <a href="https://github.com/vhfoliveira"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhfoliveira&layout=compact&count_private=true&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" /></a> |
+| ------------- | ------------- |
+
+#### Projetos em destaque
+
+<a href="https://github.com/vhfoliveira/udidesk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vhfoliveira&repo=udidesk&theme=tokyonight&hide_border=true" />
+</a>
+
+<br />
+<br />
+
+<a href="mailto:engsoft.victor@gmail.com">
+  <img align="right" alt="Victor Oliveira | Email" width="22px" src="https://cdn.simpleicons.org/gmail/EA4335" />
+</a>
+<a href="https://github.com/vhfoliveira">
+  <img align="right" alt="Victor Oliveira | GitHub" width="22px" src="https://cdn.simpleicons.org/github/181717" />
+</a>
