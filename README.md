@@ -6,7 +6,7 @@
 
 <h1 align="center">Victor Oliveira</h1>
 <p align="center">
-  <b>Engenheiro de Software · Tech Lead · Fundador da Udisoft</b><br>
+  <b>Cursando Engenharia de Software · Tech Lead · Sócio da Udisoft</b><br>
   Construo, lidero e opero software de ponta a ponta — do código à estratégia.
 </p>
 
@@ -14,7 +14,7 @@
 
 ### 👋 Sobre mim
 
-Sou engenheiro de software e lidero a reconstrução de um **ERP em produção** como SaaS. Trabalho do **backend ao banco de dados**, da **arquitetura à infraestrutura**, e da **operação técnica à direção do negócio**. Gosto de soluções simples que resolvem problemas reais, de documentação que se sustenta e de times pequenos e produtivos.
+Sou estudante de engenharia de software e lidero a reconstrução de um **ERP em produção** como SaaS. Trabalho do **backend ao banco de dados**, da **arquitetura à infraestrutura**, e da **operação técnica à direção do negócio**. Gosto de soluções simples que resolvem problemas reais, de documentação que se sustenta e de times pequenos e produtivos.
 
 ---
 
@@ -73,8 +73,8 @@ Não paro na engenharia — toco a empresa:
 
 ### 📫 Contato
 
-- 💼 LinkedIn: «seu-linkedin»
-- ✉️ E-mail: «seu-email»
+- 💼 whatsapp: (69) 9 8476-0855
+- ✉️ E-mail: engsoft.victor@gmail.com
 - 🏢 Udisoft — ERP e serviços de tecnologia
 
 <sub>⚙️ Sempre construindo. Foco em simplicidade, confiabilidade e impacto real.</sub>
